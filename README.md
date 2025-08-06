@@ -79,7 +79,7 @@ auto_restart_plugin:
 
 ## 开发信息
 
-- **作者**: ylcj
+- **作者**: 星浴
 - **版本**: 1.0.0
 - **许可证**: MIT License
 
